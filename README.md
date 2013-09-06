@@ -1,5 +1,5 @@
-dDNS
-====
+MdDNS
+=====
 
 This is a simple Multiple Dynamic DNS Bash script I created to update all the hosts I use.
 It is an insecure script that uses the direct Update URL via the HTTP Protocol.
