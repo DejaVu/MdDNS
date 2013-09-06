@@ -8,7 +8,7 @@ do
 
 IP=`wget -O - -q icanhazip.com`
 
-echo -e "dDNS Script - By DejaVu"
+echo -e "MdDNS Script - By DejaVu"
 echo -e "github.com/DejaVu/MdDNS"
 echo -e "\e[00;30m============================\e[00m"
 echo -e "Current IP is \e[00;34m$IP\e[00m"
