@@ -26,7 +26,7 @@ echo -e "\e[00;30m============================\e[00m"
 	# Sitelutions RecordID's seperated with commas
 		R=
 
-	# Sitelustions Registered .com
+	# Sitelutions Registered .com
 		H=
  
 			ping -c 1 -w 4 $H > /dev/null
