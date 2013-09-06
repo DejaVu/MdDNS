@@ -5,7 +5,7 @@ This is a simple Multiple Dynamic DNS Bash script I created to update all the ho
 It is an insecure script that uses the direct Update URL via the HTTP Protocol.
 
 It checks the domain by pinging it before attempting to update the DNS. 
-If the Ping fails, the update command is sent. 
+If the Ping fails, the update command is sent using your current IP Address. 
 The script runs on a loop every half an hour.
 
 Edits in the script are required for Usernames/Passwords/Hostnames etc.
